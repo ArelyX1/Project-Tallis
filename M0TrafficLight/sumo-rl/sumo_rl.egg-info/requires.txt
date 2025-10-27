@@ -1,0 +1,16 @@
+gymnasium>=0.28
+pettingzoo>=1.24.3
+numpy
+pandas
+pillow
+sumolib>=1.14.0
+traci>=1.14.0
+
+[all]
+pyvirtualdisplay
+
+[rendering]
+pyvirtualdisplay
+
+[testing]
+pytest==7.1.3
